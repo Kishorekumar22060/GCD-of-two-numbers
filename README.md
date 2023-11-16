@@ -1,5 +1,5 @@
-# Find the GCD of two numbers
-
+# Exp-2a- Find the GCD of two numbers
+# Date-29.08.2023
 ## AIM:
 To write a program to find the GCD of two numbers using function.
 
